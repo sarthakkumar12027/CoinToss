@@ -1,4 +1,6 @@
 🪙 Tossing App
+
+
 A fun and interactive Android application that simulates the tossing of a coin. The Tossing App features realistic animations, sound effects, and a unique cheat mode activated by shaking your device! With a sleek and dynamic design, this app is perfect for deciding between heads or tails with style.
 
 🚀 Features
